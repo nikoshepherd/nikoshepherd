@@ -1,3 +1,4 @@
+## Hi there 👋  
 - 👋 Hi, I’m @nikoshepherd
 - 👀 I’m interested in designing and implementing infrastructures in Linux-based environments
 - ⚡ Fun fact: 'I live in the clouds'
